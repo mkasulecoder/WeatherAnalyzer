@@ -1,4 +1,4 @@
-# A function that asks user for temp in Fahrenheit and converts it into Celsius
+# A program that asks user for temp in Fahrenheit and converts it into Celsius
 # @author Mark Kasule
 # DATA 300
 # 05/04/2024
